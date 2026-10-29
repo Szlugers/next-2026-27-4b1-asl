@@ -7,7 +7,6 @@ export default function AboutPage() {
       <h1>O nas</h1>
       <Card title="Nasza misja">
         <p>Dowiedz się więcej o naszej szkolnej inicjatywie!</p>
-        <Counter />
       </Card>
     </main>
   );
