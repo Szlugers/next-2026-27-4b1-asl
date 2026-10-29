@@ -1,5 +1,6 @@
 
 import Card from '@/components/Card';
+import Counter from '@/components/Counter';
 
 export default function AboutPage() {
   return (
@@ -8,6 +9,7 @@ export default function AboutPage() {
       <Card title="Nasza misja">
         <p>Dowiedz się więcej o naszej szkolnej inicjatywie!</p>
       </Card>
+      <Counter />
     </main>
   );
 }
