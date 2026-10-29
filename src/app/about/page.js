@@ -1,6 +1,5 @@
-import Card from '@/components/Card';
-import Counter from '@/components/Counter';
 
+import Card from '@/components/Card';
 
 export default function AboutPage() {
   return (
@@ -10,8 +9,6 @@ export default function AboutPage() {
         <p>Dowiedz się więcej o naszej szkolnej inicjatywie!</p>
         <Counter />
       </Card>
-      
-
     </main>
   );
 }
